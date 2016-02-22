@@ -52,33 +52,32 @@
                                 <span class="icon-bar"></span>
                             </button>   
                             <a href="/index.php" class="navbar-brand">
-                                <img src="/assets/images/LED4.jpg" class="pull-left" alt="Sky LED Panels - Branding">
+                                <img src="/SkyLEDPanels2/public/assets/images/LED4.jpg" class="pull-left" alt="Sky LED Panels - Branding">
                                 Sky LED Panels
                             </a>
                         </div>
                         <div class="collapse navbar-collapse" id="collapsemenu">
                             <ul class="nav navbar-nav">
-                                <li id="index" class="active"><a href="/index.php">Home</a></li>
+                                <li id="index" class="active"><a href="/SkyLEDPanels2/public/index.php">Home</a></li>
                                 <li class="dropdown" id="thecompany">
                                     <a href="#" class="dropdown-toggle SM" data-toggle="dropdown">The Company<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li id="aboutus"><a href="/aboutus.php">About Us</a></li>
-                                        <li id="contactus"><a href="/contactus.php">Contact Us</a></li>
+                                        <li id="aboutus"><a href="/SkyLEDPanels2/public/aboutus.php">About Us</a></li>
+                                        <li id="contactus"><a href="/SkyLEDPanels2/public/contactus.php">Contact Us</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown" id="products">
                                     <a href="#" class="dropdown-toggle SM" data-toggle="dropdown">Products<b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                       <li><a href="/skyledpanels.php">Sky LED Panels</a></li>
-                                       <li><a href="/wallpanels.php">Wall Panels Panels</a></li>
-                                       <li><a href="/bespokedesigns.php">Bespoke Designs</a></li>
-                                       <li><a href="/specifications.php">Specifications</a></li>
-                                       <li><a href="/installation.php">Installation</a></li>
-                                       <li><a href="/pricinganddelivery.php">Pricing &amp; Delivery</a></li>
+                                       <li><a href="/SkyLEDPanels2/public/skyledpanels.php">Sky LED Panels</a></li>
+                                       <li><a href="/SkyLEDPanels2/public/wallpanels.php">Wall Panels Panels</a></li>
+                                       <li><a href="/SkyLEDPanels2/public/bespokedesigns.php">Bespoke Designs</a></li>
+                                       <li><a href="/SkyLEDPanels2/public/specifications.php">Specifications</a></li>
+                                       <li><a href="/SkyLEDPanels2/public/installation.php">Installation</a></li>
+                                       <li><a href="/SkyLEDPanels2/public/pricinganddelivery.php">Pricing &amp; Delivery</a></li>
                                     </ul>
                                 </li>                                
-                                <li id="gallery"><a href="/gallery.php">Gallery</a></li>
-<!--                                <li id="admin"><a href="/SkyLEDPanels2/public/admin/admin.php">Admin</a></li>-->
+                                <li id="gallery"><a href="/SkyLEDPanels2/public/gallery.php">Gallery</a></li>
                             </ul>
                         </div>
                     </div>
