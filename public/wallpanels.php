@@ -23,19 +23,20 @@ Modification History:
             <div class="col-md-10">
                 <div class="row">
                     <div class="col-sm-12 text">
+                        <h1>Wall LED Panels</h1>
                         SSDL Ltd. is dedicated in bring you the best selection of murals with LED light. These elegant painting and fine art photos that infuse a personal touch making home or office distinctive. It's a kind of innovated product with the combination of unique decoration and illumination. Your own photos or images are another good option.               
                     </div>
                 </div>
                 <br>
                 <div class="row">
                     <div class="col-sm-12 col-md-6 col-lg-4"  style="margin-bottom: 20px;">
-                        <img class="img-responsive" src="assets/images/Sky_panel_English_2013_page10_image23.jpg">
+                        <img class="img-responsive pageimages" src="assets/images/Sky_panel_English_2013_page10_image23.jpg">
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-4" style="margin-bottom: 20px;">
-                        <img class="img-responsive" src="assets/images/Sky_panel_English_2013_page10_image24.jpg">
+                        <img class="img-responsive pageimages" src="assets/images/Sky_panel_English_2013_page10_image24.jpg">
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-4" style="margin-bottom: 20px;">
-                        <img class="img-responsive" src="assets/images/Sky_panel_English_2013_page10_image25.jpg">
+                        <img class="img-responsive pageimages" src="assets/images/Sky_panel_English_2013_page10_image25.jpg">
                     </div>
                 </div>
             </div>
