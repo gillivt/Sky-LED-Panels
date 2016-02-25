@@ -29,3 +29,6 @@ dist/
 nbdist/
 nbactions.xml
 .nb-gradle/
+
+#My Folders/Files
+unused_content/

@@ -1,9 +1,9 @@
 /* 
- * File: edit_photo.js
+ * File: installation.js
  * 
  * Copyright © 2016 Terry Gilliver <terry@comp-solutions.org.uk> - Computer Solutions
  * 
- * Created: 02-Feb-2016 15:15:46
+ * Created: 27-Jan-2016 02:43:36
  * 
  * Purpose:
  * 
@@ -12,10 +12,11 @@
  * 
  */
 $('li.active').removeClass('active');
-$('li#admin').addClass('active');
+$('li#products').addClass('active');
+
 // fade main div in and out
-$('#mywrapper').fadeIn(200);
-$('a').click(function(e){
+$('div#mywrapper').fadeIn(200);
+$('a').click(function (e) {
     e.preventDefault();
     if (!$(this).hasClass('SM')) {
         var href = $(this).attr('href');

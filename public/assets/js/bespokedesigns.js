@@ -1,9 +1,9 @@
 /* 
- * File: logfile.js
+ * File: bespokedesigns.js
  * 
  * Copyright © 2016 Terry Gilliver <terry@comp-solutions.org.uk> - Computer Solutions
  * 
- * Created: 03-Feb-2016 11:27:35
+ * Created: 27-Jan-2016 02:43:36
  * 
  * Purpose:
  * 
@@ -11,9 +11,12 @@
  * Modification History:
  * 
  */
+$('li.active').removeClass('active');
+$('li#products').addClass('active');
+
 // fade main div in and out
 $('div#mywrapper').fadeIn(200);
-$('a').click(function(e){
+$('a').click(function (e) {
     e.preventDefault();
     if (!$(this).hasClass('SM')) {
         var href = $(this).attr('href');
@@ -25,4 +28,3 @@ $('a').click(function(e){
        window.location = href;
     }
 });
-
