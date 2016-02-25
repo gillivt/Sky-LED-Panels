@@ -23,7 +23,7 @@ Modification History:
             <div class="col-xs-12 col-sm-10 col-md-8">
                 <h1>Gallery</h1>
                 <div id="myCarousel" class="carousel slide">
-                    <ol class="carousel-indicators hidden-xs hidden-sm hidden-md">
+                    <ol class="carousel-indicators">
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
@@ -34,55 +34,19 @@ Modification History:
                         <li data-target="#myCarousel" data-slide-to="7"></li>
                         <li data-target="#myCarousel" data-slide-to="8"></li>
                         <li data-target="#myCarousel" data-slide-to="9"></li>
-                        <li data-target="#myCarousel" data-slide-to="10"></li>
-                        <li data-target="#myCarousel" data-slide-to="11"></li>
-                        <li data-target="#myCarousel" data-slide-to="12"></li>
-                        <li data-target="#myCarousel" data-slide-to="13"></li>
-                        <li data-target="#myCarousel" data-slide-to="14"></li>
-                        <li data-target="#myCarousel" data-slide-to="15"></li>
-                        <li data-target="#myCarousel" data-slide-to="16"></li>
-                        <li data-target="#myCarousel" data-slide-to="17"></li>
-                        <li data-target="#myCarousel" data-slide-to="18"></li>
-                        <li data-target="#myCarousel" data-slide-to="19"></li>
-                        <li data-target="#myCarousel" data-slide-to="20"></li>
-                        <li data-target="#myCarousel" data-slide-to="21"></li>
-                        <li data-target="#myCarousel" data-slide-to="22"></li>
-                        <li data-target="#myCarousel" data-slide-to="23"></li>
-                        <li data-target="#myCarousel" data-slide-to="24"></li>
-                        <li data-target="#myCarousel" data-slide-to="25"></li>
-                        <li data-target="#myCarousel" data-slide-to="26"></li>
-                        <li data-target="#myCarousel" data-slide-to="27"></li>
                     </ol>
                     
                     <section class="carousel-inner">
-                        <div class="item active"><img src="images/carousel/Sky_panel_English_2013_page10_image2.png" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image3.jpg" style="width: 100%;" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image4.jpg" style="width: 100%;" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image5.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image6.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image7.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image8.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image9.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image10.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image11.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image12.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image13.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image14.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image15.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image16.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image17.png" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image18.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image19.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image20.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image21.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image22.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image23.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image24.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image25.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image26.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image27.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image28.jpg" style="width: 100%;" class="img-responsive" alt=""></div> 
-                        <div class="item"><img src="images/carousel/Sky_panel_English_2013_page10_image29.png" style="width: 100%;" class="img-responsive" alt=""></div> 
+                        <div class="item img-responsive active"><img src="images/carousel/BaclesseRadiotherapy_rt_1.jpg" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/ChildrensMedCenter2_rt_1.jpg" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/EldercareBudapest_rt_1.jpg" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0580.JPG" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0581.JPG" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0584.JPG" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0585.JPG" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/McGillD11_rt_1.jpg" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/SeascapeFoods_rt_1.jpg" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/XfitSpa_rt_1.jpg" style="height: 580px;" alt=""></div> 
                     </section><!--carousel-inner-->
                     <a href="#myCarousel" class="left carousel-control SM" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> 
                     <a href="#myCarousel" class="right carousel-control SM" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a> 

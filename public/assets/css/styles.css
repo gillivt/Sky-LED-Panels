@@ -114,5 +114,14 @@ table, tr, td, tr {
 .pageimages {
   height: 200px; }
 
-pre {
-  background-color: transparent; }
+.carousel-inner img {
+  margin: auto; }
+
+section.carousel-inner {
+  height: 600px; }
+
+section.carousel-inner img {
+  height: 550px; }
+
+.carousel-indicators {
+  visibility: hidden; }
