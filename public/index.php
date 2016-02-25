@@ -28,7 +28,7 @@ Modification History:
                     <li>User friendliness with soft and uniform light, low wattage and heat. No
                         strobing or glare, which protects your eyesight.</li>
                     <li>Easy installation and low maintenance.</li>
-                    <li>Superior decorative performance (thin structure of about 20M thickness,
+                    <li>Superior decorative performance (light-weight structure of 12mm thickness,
                         with optional images that creates a sensation for reality to the spaces).</li> 
                 </ul>
                 <p>Our LED Panels have multiple applications where a relaxing warm environment
@@ -46,7 +46,7 @@ Modification History:
             </div>
             <div class="col-sm-12 col-md-4">
                 <br>
-                <img class="img-responsive" src="assets/images/Sky_panel_English_2013_page10_image2.png">
+                <img class="img-responsive" src="assets/images/IMG_0580.jpg" style="height:600px;">
             </div>
         </div>
     </div>
