@@ -30,3 +30,28 @@ $('a').click(function(e){
        window.location = href;
     }
 });
+
+// set carousel height etc
+var headerHeight = 52;
+var footerHeight = 30;
+var contentHeight = $(window).height() - (headerHeight + footerHeight);
+var titleSpace = 60;
+var carouselMargin = 10;
+var carouselHeight = contentHeight - (titleSpace + (2 * carouselMargin));
+var imgHeight = carouselHeight - 20;
+
+// set css heights 
+$("section.carousel-inner").css("height", carouselHeight + "px");
+$("section.carousel-inner div.item img").css("height", imgHeight + "px");
+
+// check for windows size changes
+$(window).resize(function () {
+    contentHeight = $(window).height() - (headerHeight + footerHeight);
+    carouselHeight = contentHeight - (titleSpace + (2 * carouselMargin));
+    imgHeight = carouselHeight - 20;
+
+    // reset css heights 
+    $("section.carousel-inner").css("height", carouselHeight + "px");
+    $("section.carousel-inner div.item img").css("height", imgHeight + "px");
+});
+

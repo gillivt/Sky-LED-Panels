@@ -37,16 +37,16 @@ Modification History:
                     </ol>
                     
                     <section class="carousel-inner">
-                        <div class="item img-responsive active"><img src="images/carousel/BaclesseRadiotherapy_rt_1.jpg" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/ChildrensMedCenter2_rt_1.jpg" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/EldercareBudapest_rt_1.jpg" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/IMG_0580.JPG" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/IMG_0581.JPG" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/IMG_0584.JPG" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/IMG_0585.JPG" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/McGillD11_rt_1.jpg" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/SeascapeFoods_rt_1.jpg" style="height: 580px;" alt=""></div> 
-                        <div class="item img-responsive"><img src="images/carousel/XfitSpa_rt_1.jpg" style="height: 580px;" alt=""></div> 
+                        <div class="item img-responsive active"><img src="images/carousel/BaclesseRadiotherapy_rt_1.jpg" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/ChildrensMedCenter2_rt_1.jpg" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/EldercareBudapest_rt_1.jpg" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0580.JPG" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0581.JPG" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0584.JPG" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/IMG_0585.JPG" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/McGillD11_rt_1.jpg" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/SeascapeFoods_rt_1.jpg" alt=""></div> 
+                        <div class="item img-responsive"><img src="images/carousel/XfitSpa_rt_1.jpg" alt=""></div> 
                     </section><!--carousel-inner-->
                     <a href="#myCarousel" class="left carousel-control SM" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> 
                     <a href="#myCarousel" class="right carousel-control SM" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a> 
