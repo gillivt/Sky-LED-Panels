@@ -35,7 +35,7 @@ $('a').click(function(e){
 var headerHeight = 52;
 var footerHeight = 30;
 var contentHeight = $(window).height() - (headerHeight + footerHeight);
-var titleSpace = 75;
+var titleSpace = 60;
 var carouselMargin = 10;
 var carouselHeight = contentHeight - (titleSpace + (2 * carouselMargin));
 var imgHeight = carouselHeight - 20;

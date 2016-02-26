@@ -136,9 +136,9 @@ table, tr, td, tr {
 }
 
 section.carousel-inner {
-    height: 600px;
+    /* height is set in javascript for gallery */
     div.item img {
-        //height: 580px;
+        /* height: 580px; set in javascript */
         margin: 10px auto 10px auto;
     }
 }
